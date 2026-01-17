@@ -5,8 +5,14 @@ Hello, I'm Limhai
 [Brief Introduction]
 
 I am currently a third-year Computer Science student with a strong interest in Web Development.
-My career goal is to become a skilled Web Developer, building modern, responsive, and user-friendly web applications.
 
+{Project}
+<ul>
+  <li>
+<a href="https://haiertool.vercel.app/">hairtool</a>,
+allowing you to convert your link into Qr Code. Also new more coming soon!
+  </li>
+</ul>
 <!--
 **Limhai12-OB/Limhai12-OB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
