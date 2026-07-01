@@ -10,7 +10,7 @@ I am currently a third-year Computer Science student with a strong interest in W
 <ul>
   <li>
 <a href="https://haiertool.vercel.app/">hairtool</a>,
-allowing you to convert your link into Qr Code. Also new more coming soon!
+allowing you to convert your link into Qr Code, Using background-remover. Also some more new coming soon!
   </li>
 </ul>
 <!--
